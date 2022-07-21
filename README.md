@@ -1,2 +1,2 @@
-# Docker-Fun
-Getting to know Docker
+Just getting started in Docker!
+This will be a place to practice and test.
